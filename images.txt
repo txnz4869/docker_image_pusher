@@ -1,1 +1,1 @@
-redis/redis-stack:latest
+ghcr.io/jae-jae/fetcher-mcp:latest
