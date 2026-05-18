@@ -1,1 +1,1 @@
-ghcr.io/jae-jae/fetcher-mcp:latest
+emqx/emqx-enterprise:6.2.0
