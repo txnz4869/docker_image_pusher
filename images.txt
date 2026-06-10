@@ -1,1 +1,1 @@
-emqx/emqx-enterprise:6.2.0
+apache/rocketmq:5.3.2
